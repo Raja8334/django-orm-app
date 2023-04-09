@@ -53,7 +53,7 @@ class DatabaseAdmin(admin.ModelAdmin):
      )
 ```
 ## OUTPUT:
-![out](oRM1.png)
+![out](/orm1.png)
 
 
 ## RESULT:
